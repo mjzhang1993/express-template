@@ -1,0 +1,22 @@
+{
+  "name": "express-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "cross-env NODE_ENV=development node app.js"
+  },
+  "author": "mjzhang1993 <mjzhang1993@163.com>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "1.18.2",
+    "cookie-parser": "1.4.3",
+    "express": "4.16.2",
+    "jade": "1.11.0",
+    "morgan": "1.9.0"
+  },
+  "devDependencies": {
+    "cross-env": "5.1.1"
+  }
+}
