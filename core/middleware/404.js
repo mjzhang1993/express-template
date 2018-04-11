@@ -9,5 +9,5 @@ module.exports = function (req, res, next) {
         });
     }
 
-    res.render('404.jade');
-}
+    res.render('404.pug');
+};

@@ -7,6 +7,7 @@
 - /views 模板文件夹
 - /public 前端静态资源文件夹
 - /config 开发配置
+- /models 数据库文件
 - /core 核心、基础 模块或者中间件
 - /apps 子程序集合
 - /apps/admin 子程序文件夹
